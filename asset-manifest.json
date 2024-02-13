@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/busan/static/css/main.f855e6bc.css",
+    "main.js": "/busan/static/js/main.bacefe80.js",
+    "static/js/592.8e77ad14.chunk.js": "/busan/static/js/592.8e77ad14.chunk.js",
+    "static/media/logo.svg": "/busan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/busan/index.html",
+    "main.f855e6bc.css.map": "/busan/static/css/main.f855e6bc.css.map",
+    "main.bacefe80.js.map": "/busan/static/js/main.bacefe80.js.map",
+    "592.8e77ad14.chunk.js.map": "/busan/static/js/592.8e77ad14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bacefe80.js"
+  ]
+}
